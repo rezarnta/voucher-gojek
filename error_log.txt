@@ -1,0 +1,4 @@
+
+{"data":null,"success":false,"errors":[{"code":"CO:CUST:invalid_phone","message":"Phone number should be at least 8 numbers and in +62xxx format.","message_title":"Error","message_severity":"error"}]}
+{"data":null,"success":false,"errors":[{"code":"CO:CUST:invalid_phone","message":"Phone number should be at least 8 numbers and in +62xxx format.","message_title":"Error","message_severity":"error"}]}
+{"data":null,"success":false,"errors":[{"code":"CO:CUST:invalid_phone","message":"Phone number should be at least 8 numbers and in +62xxx format.","message_title":"Error","message_severity":"error"}]}
